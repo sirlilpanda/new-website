@@ -216,7 +216,9 @@ svg {
     text-center
     ;
 }
-
-
+img {
+    @apply
+    rounded-xl
+}
 
 </style>

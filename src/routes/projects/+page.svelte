@@ -10,6 +10,20 @@
                 <ul class="m-0 p-0 list-none">
                     
                     <ProjectCard>
+                        <a href="/projects/c_result_type/">
+                            <img alt="" src="/c_result_type.png"/>
+                            <p>c_result_type</p>
+                        </a>
+                    </ProjectCard>
+                    
+                    <ProjectCard>
+                        <a href="/projects/raytracer/">
+                            <img alt="" src="/ray_tracer.png"/>
+                            <p>RayTracer</p>
+                        </a>
+                    </ProjectCard>
+
+                    <ProjectCard>
                         <a href="/projects/discord_bot/">
                             <img alt="" src="/discord_bot.png"/>
                             <p>discord_bot</p>
@@ -25,12 +39,6 @@
                     </ProjectCard>
 
                     
-                    <ProjectCard>
-                        <a href="/projects/c_result_type/">
-                            <img alt="" src="/c_result_type.png"/>
-                            <p>c_result_type</p>
-                        </a>
-                    </ProjectCard>
 
                     
                     <ProjectCard>
@@ -65,12 +73,7 @@
                     </ProjectCard>
 
                     
-                    <ProjectCard>
-                        <a href="/projects/raytracer/">
-                            <img alt="" src="/ray_tracer.png"/>
-                            <p>RayTracer</p>
-                        </a>
-                    </ProjectCard>
+
 
                     
                     <ProjectCard>
