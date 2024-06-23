@@ -92,10 +92,11 @@
         <h1 id="conclusion">Conclusion</h1>
         <p>In conclusion not filtering the sinogram will lead to a blurry reconstruction with almost a bloom effect to it. although this effect was determined to be caused by the polar sampling of the Fourier slice theorem. Filtering the sinogram creates a sharper reconstruction with a small amount of noise. This noise was found to be from the ramp filter that as used to interpolate the high frequency values what was lost during the polar sampling. However, this noise could be reduced by using a higher order filter. There was also a lighter circle within the reconstruction, and this was determined to be from the interpolation caused by the rotation of the image matrix. </p>
         <h1 id="references">References</h1>
-        <p>[1] H. M. Gach, C. Tanase, and F. Boada, ‘2D &amp; 3D Shepp-Logan Phantom Standards for MRI’, in 2008 19th International Conference on Systems Engineering, IEEE, 2008, pp. 521–526. doi: 10.1109/ICSEng.2008.15.
-        [2]    T. Salditt, Biomedical imaging: principles of radiography, tomography and medical physics, 1;1st; Berlin;Boston; De Gruyter, 2017. doi: 10.1515/9783110426694.
-        [3]    O. A. Godin, N. A. Zabotin, and V. V. Goncharov, ‘Ocean tomography with acoustic daylight’, Geophysical research letters, vol. 37, no. 13, p. n/a-n/a, 2010, doi: 10.1029/2010GL043623.
-        [4]R. N. Bracewell, ‘Numerical Transforms’, Science (American Association for the Advancement of Science), vol. 248, no. 4956, pp. 697–704, 1990, doi: 10.1126/science.248.4956.697.</p>
+        <p>
+        <br/>[1] H. M. Gach, C. Tanase, and F. Boada, ‘2D &amp; 3D Shepp-Logan Phantom Standards for MRI’, in 2008 19th International Conference on Systems Engineering, IEEE, 2008, pp. 521–526. doi: 10.1109/ICSEng.2008.15.
+        <br/>[2]    T. Salditt, Biomedical imaging: principles of radiography, tomography and medical physics, 1;1st; Berlin;Boston; De Gruyter, 2017. doi: 10.1515/9783110426694.
+        <br/>[3]    O. A. Godin, N. A. Zabotin, and V. V. Goncharov, ‘Ocean tomography with acoustic daylight’, Geophysical research letters, vol. 37, no. 13, p. n/a-n/a, 2010, doi: 10.1029/2010GL043623.
+        <br/>[4]R. N. Bracewell, ‘Numerical Transforms’, Science (American Association for the Advancement of Science), vol. 248, no. 4956, pp. 697–704, 1990, doi: 10.1126/science.248.4956.697.</p>
         
 </div>
 </section>
