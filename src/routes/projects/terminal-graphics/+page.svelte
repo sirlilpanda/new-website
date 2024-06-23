@@ -1,8 +1,8 @@
 
 <section>
 
-    <div class="flex items-center justify-center max-w-[900px]">
-        <div class = "w-[800px]">
+    <div class="flex items-center justify-center ">
+        <div class = "max-w-[900px]">
             <h1 class="text-6xl text-yellow-100 text-center">terminal graphics:</h1>
             <p class="text-2xl text-yellow-100 pt-10 w-[800px] text-justify">
                 As i tend to utilized the terminal as an output for my code projects over

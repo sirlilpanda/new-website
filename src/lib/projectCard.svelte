@@ -6,7 +6,7 @@
 
 
 <style lang="postcss">
-
+    @import "../app.css";
     li {
         @apply
         inline-block 
@@ -44,5 +44,7 @@
         group-hover:text-3xl
         ;
     }
+
+
 
 </style>

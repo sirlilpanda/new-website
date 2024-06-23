@@ -32,7 +32,7 @@
                 </a>
             </NavUnit>
             <NavUnit>
-                <a href="/Contact">
+                <a href="/#contact">
                     <span>contact()</span>
                 </a>
             </NavUnit>
