@@ -60,7 +60,7 @@ Where h is the height of the cylinder. When mapping on to the top flat region of
 </p>
 <div class="flex items-center justify-center">
     <p>
-        <em>t</em><sup>2</sup>(<em>d</em><sub><em>x</em></sub><sup>2</sup>+<em>d</em><sub><em>z</em></sub><sup>2</sup>) + 2<em>t</em>(<em>d</em><sub><em>x</em></sub>(<em>x</em><sub>0</sub>−<em>x</em><sub><em>c</em></sub>)+<em>d</em><sub><em>z</em></sub>(<em>z</em><sub>0</sub>−<em>z</em><sub><em>c</em></sub>)) + ((<em>x</em><sub>0</sub>−<em>x</em><sub><em>c</em></sub>)<sup>2</sup>+(<em>z</em><sub>0</sub>−<em>z</em><sub><em>c</em></sub>)<sup>2</sup>−<em>R</em><sup>2</sup>) = 0
+        <em>t</em><sup>2</sup>(<em>d</em><sub><em>x</em></sub><sup>2</sup>+<em>d</em><sub><em>z</em></sub><sup>2</sup>)+2<em>t</em>(<em>d</em><sub><em>x</em></sub>(<em>x</em><sub>0</sub>−<em>x</em><sub><em>c</em></sub>)+<em>d</em><sub><em>z</em></sub>(<em>z</em><sub>0</sub>−<em>z</em><sub><em>c</em></sub>))+((<em>x</em><sub>0</sub>−<em>x</em><sub><em>c</em></sub>)<sup>2</sup>+(<em>z</em><sub>0</sub>−<em>z</em><sub><em>c</em></sub>)<sup>2</sup>−<em>R</em><sup>2</sup>) = 0
     </p>
 </div>
 <p><!-- t^2\left(d_x^2+d_z^2\right)+2t\left(d_x\left(x_0-x_c\right)+d_z\left(z_0-z_c\right)\right)+\left(\left(x_0-x_c\right)^2+\left(z_0-z_c\right)^2-R^2\right)=0 -->
@@ -82,7 +82,7 @@ The y component is set to zero unless the vector is intersecting the top of the 
 </p>
 <div class="flex items-center justify-center">
     <p>
-        <em>t</em><sup>2</sup>(<em>d</em><sub><em>x</em></sub><sup>2</sup>+<em>d</em><sub><em>z</em></sub><sup>2</sup>−<em>r</em><sub>2</sub><em>d</em><sub><em>y</em></sub><sup>2</sup>) + 2<em>t</em>(<em>d</em><em>x</em>(<em>x</em><sub><em>o</em></sub>−<em>x</em><sub><em>c</em></sub>)+<em>d</em><sub><em>z</em></sub>(<em>z</em><em>o</em>−<em>z</em><em>c</em>)+<em>r</em><sub>2</sub><em>d</em><sub><em>y</em></sub>(<em>h</em>−<em>y</em><sub><em>o</em></sub>+<em>y</em><sub><em>c</em></sub>)) + ((<em>x</em><sub>0</sub>−<em>x</em><sub><em>c</em></sub>)<sup>2</sup> + (<em>z</em><sub>0</sub>−<em>z</em><sub><em>c</em></sub>)<sup>2</sup> − <em>r</em><sub>2</sub>(<em>h</em>−<em>y</em><sub><em>o</em></sub>+<em>y</em><sub><em>c</em></sub>)<sup>2</sup> = 0
+        <em>t</em><sup>2</sup>(<em>d</em><sub><em>x</em></sub><sup>2</sup>+<em>d</em><sub><em>z</em></sub><sup>2</sup>−<em>r</em><sub>2</sub><em>d</em><sub><em>y</em></sub><sup>2</sup>)+2<em>t</em>(<em>d</em><em>x</em>(<em>x</em><sub><em>o</em></sub>−<em>x</em><sub><em>c</em></sub>)+<em>d</em><sub><em>z</em></sub>(<em>z</em><em>o</em>−<em>z</em><em>c</em>)+<em>r</em><sub>2</sub><em>d</em><sub><em>y</em></sub>(<em>h</em>−<em>y</em><sub><em>o</em></sub>+<em>y</em><sub><em>c</em></sub>)) + ((<em>x</em><sub>0</sub>−<em>x</em><sub><em>c</em></sub>)<sup>2</sup>+(<em>z</em><sub>0</sub>−<em>z</em><sub><em>c</em></sub>)<sup>2</sup>−<em>r</em><sub>2</sub>(<em>h</em>−<em>y</em><sub><em>o</em></sub>+<em>y</em><sub><em>c</em></sub>)<sup>2</sup> = 0
     </p>
 </div>
 <p>
