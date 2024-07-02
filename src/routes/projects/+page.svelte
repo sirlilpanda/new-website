@@ -4,7 +4,7 @@
 
 <main class="text-center mx-auto text-gray-700 p-4">
     <section>
-        <h1 class="text-5xl text-amber-100 text-center mx-auto w-screen pt-20">Projects:</h1>
+        <h1 class="text-5xl text-amber-100 text-center mx-auto w-screen pt-20">Projects/articles:</h1>
         <div class="mx-auto my-0 h-max">
             <nav class="mt-20 float-left relative text-center">
                 <ul class="m-0 p-0 list-none">
@@ -30,7 +30,6 @@
                         </a>
                     </ProjectCard>
 
-                    
                     <ProjectCard>
                         <a href="/projects/website/">
                             <img alt="" src="/website.png"/>
@@ -38,9 +37,6 @@
                         </a>
                     </ProjectCard>
 
-                    
-
-                    
                     <ProjectCard>
                         <a href="/projects/tomography/">
                             <img alt="" src="/tomography.png"/>
@@ -48,7 +44,6 @@
                         </a>
                     </ProjectCard>
 
-                    
                     <ProjectCard>
                         <a href="/projects/Noaa-sat-recording/">
                             <img alt="" src="/sat.png"/>
@@ -72,10 +67,6 @@
                         </a>
                     </ProjectCard>
 
-                    
-
-
-                    
                     <ProjectCard>
                         <a href="/projects/micro-soldering/">
                             <img alt="" src="/usmd.png"/>
@@ -97,7 +88,14 @@
                             <p>terminal-graphics</p>
                         </a>
                     </ProjectCard>
-                    
+                    =
+                    <ProjectCard>
+                        <a href="/projects/more/">
+                            <img alt="" src="/more.png"/>
+                            <p>looking-for-more?</p>
+                        </a>
+                    </ProjectCard>
+
                     <!-- <ProjectCard>
                         <a href="/projects/cooking">
                             <img alt="" src="/cooking.png" />
