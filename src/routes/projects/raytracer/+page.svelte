@@ -139,6 +139,9 @@ The image as seen in figure 4 shows a rough pass, of having light scatter when h
 Figure 5: bouncing through mirrors.</p>
 <p>Figure 5 depicts a room with 2 mirrors at either end with a model of the earth within it. The model earth can be seen to be repeated through all the mirrors within this room. A slightly more impressive example can be seen in appendix A</p>
 <h1 id="appendix">Appendix</h1>
+
+<h2>The code for this project can be found <a href="https://github.com/sirlilpanda/CPP_ray_tracer"><span class="text-blue-700 underline">here</span></a></h2>
+
 <p>These are a few of the cool test renders I had when developed the ray tracer.</p>
 <h2 id="a-album-cover">A: album cover</h2>
 <div class="flex items-center justify-center">
@@ -156,7 +159,6 @@ Figure 5: bouncing through mirrors.</p>
 <div class="flex items-center justify-center">
     <img src="/raytracer/raytracer-image-8.png" alt="alt text">
 </div>
-
 </div>
 </div>
 

@@ -261,6 +261,13 @@ h2 {
     ;
 }
 
+h3 {
+    @apply
+    text-xl text-amber-200 mx-auto  pt-3
+    ;
+}
+
+
 p {
     @apply
     text-lg
